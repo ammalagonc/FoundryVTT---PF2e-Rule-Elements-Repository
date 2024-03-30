@@ -1,0 +1,14 @@
+{
+  "key": "FlatModifier",
+  "mode": "override",
+  "selector": "hp",
+  "value": {
+    "brackets": [
+      {
+        "start": 4,
+        "value": "10*floor(@actor.level/2)-10"
+      }
+    ],
+    "field": "actor|level"
+  }
+}
