@@ -1,0 +1,1 @@
+{"key":"DamageDice","selector":"damage","diceNumber":1,"dieSize":"d6","predicate":["target:trait:fiend","unarmed"],"label":"Fiendbane Rune"}
